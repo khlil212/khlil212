@@ -37,6 +37,7 @@ Cleaned and standardized customer records, removed duplicates, corrected data fo
 An exploratory data analysis project using Python to investigate customer churn patterns, identify customer segments, and understand the factors associated with customer retention.
 
 [View Project](https://github.com/khlil212/customer-churn-analysis)
+
 ---
 
 ## 🎓 Certifications
