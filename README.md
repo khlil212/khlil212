@@ -33,6 +33,10 @@ Cleaned and standardized customer records, removed duplicates, corrected data fo
 
 [View Project](https://github.com/khlil212/customer-data-cleaning-excel)
 
+### 4. Customer Churn Analysis – Python
+An exploratory data analysis project using Python to investigate customer churn patterns, identify customer segments, and understand the factors associated with customer retention.
+
+[View Project](https://github.com/khlil212/customer-churn-analysis)
 ---
 
 ## 🎓 Certifications
