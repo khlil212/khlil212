@@ -38,6 +38,12 @@ An exploratory data analysis project using Python to investigate customer churn 
 
 [View Project](https://github.com/khlil212/customer-churn-analysis)
 
+### 5. E-Commerce Customer Behavior & Sales Analysis – Excel
+
+Analyzed 5,000 e-commerce transaction records using Microsoft Excel. Performed data quality checks, calculated key business KPIs, explored sales and customer behavior, and developed an interactive dashboard to present business insights.
+
+[View Project](https://github.com/khlil212/Ecommerce-Customer-Behavior-Analysis)
+
 ---
 
 ## 🎓 Certifications
