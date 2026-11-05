@@ -1,4 +1,4 @@
-# Hi, I'm Khalil Azennoud 👋
+# Hi, I'm Khalil Azennoud 
 
 ### Aspiring Data Analyst | SQL | Python | Power BI | Excel
 
